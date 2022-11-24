@@ -2,6 +2,6 @@ Pasta logs: Contém os históricos de treinamento dos modelos, em forma de Tenso
 
 Pasta data: Dados os diretórios com os respectivos dados (fotos com itens nomeados pelo diretório).
 
-
+O arquivo nomeado "foodcare_tcc.ipynb" é onde o nosso notebook está contido e para fazê-lo funcionar é necessário seguir a ordem em que foi escrito e executar passo por passo. Preferencialmente rodar no Google Colab.
 
 A tentativa do modelo treinado está no arquivo "foodcare.h5" dentro do diretório models
