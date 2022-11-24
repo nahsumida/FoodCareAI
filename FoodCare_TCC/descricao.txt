@@ -1,0 +1,7 @@
+Pasta Logs: Contém os históricos de treinamento dos modelos, em forma de TensorBoard.
+
+Pasta Data: Dados os diretórios com os respectivos dados (fotos com itens nomeados pelo diretório).
+
+
+
+A tentativa do modelo treinado está no arquivo "foodcare.h5" dentro do diretório 
